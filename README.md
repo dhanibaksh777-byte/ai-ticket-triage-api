@@ -2,20 +2,6 @@
 
 An AI-powered backend that automatically classifies support tickets — category, priority, and sentiment — so support teams can route and prioritize without reading every message manually.
 
-
-
-
-
-
- ![Image Alt]("https://github.com/user-attachments/assets/273a1b4c-7e88-4281-b86c-7ff53da485b5")
-
-
-
-
-
-
-
-
 **Live demo:** https://ai-ticket-triage-ui.vercel.app
 **Live API:** https://ai-ticket-triage-api.onrender.com
 
