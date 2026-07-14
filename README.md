@@ -7,7 +7,7 @@ An AI-powered backend that automatically classifies support tickets — category
 
 
 
- ![Image Alt](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/273a1b4c-7e88-4281-b86c-7ff53da485b5" />)
+ ![Image Alt]("https://github.com/user-attachments/assets/273a1b4c-7e88-4281-b86c-7ff53da485b5")
 
 
 
